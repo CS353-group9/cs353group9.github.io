@@ -2,6 +2,9 @@
 layout: default
 ---
 
+Bilkent CS353 Database Course Project Site for Group 9
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
